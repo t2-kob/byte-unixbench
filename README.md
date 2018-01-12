@@ -1,5 +1,17 @@
 # byte-unixbench
 
+-----------------------
+
+### This version is v5.1.3+ (WIP: Only until a pull request passes)
+
+v5.1.3 master + support below. 
+  * CSV output
+  * Change directory changes
+  * Output file name changes
+  * GCC compiler option changes
+
+-------------------------
+
 **UnixBench** is the original BYTE UNIX benchmark suite, updated and revised by many people over the years.
 
 The purpose of UnixBench is to provide a basic indicator of the performance of a Unix-like system; hence, multiple 
